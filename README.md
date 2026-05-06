@@ -11,6 +11,13 @@ Connect VM:
 ```bash id="hprlhg"
 gcloud compute ssh my-vm --zone=us-central1-a
 ```
+```bash id="hprlhg"
+sudo apt install apache2 –y 
+```
+```bash id="hprlhg"
+lscpu # CPU details 
+free -h # Memory details
+```
 
 Delete VM:
 
